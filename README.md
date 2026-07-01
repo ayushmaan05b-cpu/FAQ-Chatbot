@@ -1,23 +1,12 @@
-# FAQ Chatbot
+# FAQ-Chatbot
 
-## Description
-A chatbot that answers frequently asked questions using NLP and cosine similarity.
+A simple FAQ Chatbot built using Python and Streamlit.
+
+## Features
+- Interactive chatbot
+- Instant FAQ responses
+- User-friendly interface
 
 ## Technologies Used
 - Python
 - Streamlit
-- NLTK
-- Scikit-learn
-
-## Features
-- Text preprocessing
-- FAQ matching
-- Cosine similarity
-- Interactive chatbot UI
-
-## Run Project
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
